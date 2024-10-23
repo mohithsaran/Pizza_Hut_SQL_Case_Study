@@ -1,13 +1,13 @@
 # **Pizza Hut SQL Case Study**
-This case study involves analyzing a dataset of around 40,000 records from a fictional Pizza Hut dataset to answer various business questions. The dataset includes tables for pizzas, pizza types, order details, and other related information. The queries will cover basic, intermediate, and advanced SQL concepts to gain insights into the business operations.
+This case study involves analyzing a dataset of around 40,000 records from a fictional Pizza Hut dataset to answer various business questions. The dataset includes tables for pizzas, pizza types, order details, and other related information. The queries will cover basic, intermediate, and advanced SQL concepts to gain insights into the business operations solved in `BigQuery`.
 
 ## **Dataset Overview**
 The dataset consists of the following tables:
 
-pizzas: Contains information about pizzas, including their IDs, names, prices, and associated pizza types.
-pizza_types: Lists the different categories of pizzas (e.g., vegetarian, non-vegetarian) along with their descriptions.
-order_details: Stores details of each order, including order IDs, pizza IDs, quantities, and timestamps.
-orders: Stores orders IDs, date, time of purchasing the order
+`pizzas:` Contains information about pizzas, including their IDs, names, prices, and associated pizza types.
+`pizza_types:` Lists the different categories of pizzas (e.g., vegetarian, non-vegetarian) along with their descriptions.
+`order_details:` Stores details of each order, including order IDs, pizza IDs, quantities, and timestamps.
+`orders:` Stores orders IDs, date, time of purchasing the order
 
 ## **SQL Queries and Objectives**
 ### **Basic Queries**
