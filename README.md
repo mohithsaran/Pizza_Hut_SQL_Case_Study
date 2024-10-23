@@ -5,8 +5,11 @@ This case study involves analyzing a dataset of around 40,000 records from a fic
 The dataset consists of the following tables:
 
 1.`pizzas:` Contains information about pizzas, including their IDs, names, prices, and associated pizza types.
+
 2.`pizza_types:` Lists the different categories of pizzas (e.g., vegetarian, non-vegetarian) along with their descriptions.
+
 3.`order_details:` Stores details of each order, including order IDs, pizza IDs, quantities, and timestamps.
+
 4.`orders:` Stores orders IDs, date, time of purchasing the order
 
 ## **SQL Queries and Objectives**
